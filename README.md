@@ -1,1 +1,1 @@
-# TODO-Application
+A To-Do Application helps users keep track of tasks by allowing them to add, mark as complete, and delete items. It's a great way to stay productive and organized — and a fun project to practice DOM manipulation and local storage in JavaScript.
